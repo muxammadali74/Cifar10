@@ -8,5 +8,4 @@ A simple image classifier trained on the CIFAR-10 dataset.
 
 ## Usage
 ```bash
-pip install -r requirements.txt
 jupyter notebook cifar10-classifier.ipynb
